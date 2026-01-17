@@ -13,7 +13,6 @@
 * 🔹 Strong background in **SQL Server, Stored Procedures & Database Design**
 * 🔹 Worked on **eCommerce, Multi‑Vendor Platforms, APIs & Admin Panels**
 * 🔹 Focused on **clean code, performance & maintainable architecture**
-* 🔹 Preparing for **RRB NTPC** while continuously improving tech skills
 
 ---
 
