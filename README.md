@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Praveen Kumar 👋
 
-<!--
-**Praveensingh76/Praveensingh76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **ASP.NET Core Developer | Web API | SQL Server**
+💻 Building scalable, secure, and real-world web applications
+📈 5+ years of experience in .NET technologies
+🌱 Currently upgrading skills in **ASP.NET Core, Clean Architecture & Modern APIs**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🔹 Experienced in **ASP.NET, ASP.NET Core, MVC, Web API**
+* 🔹 Strong background in **SQL Server, Stored Procedures & Database Design**
+* 🔹 Worked on **eCommerce, Multi‑Vendor Platforms, APIs & Admin Panels**
+* 🔹 Focused on **clean code, performance & maintainable architecture**
+* 🔹 Preparing for **RRB NTPC** while continuously improving tech skills
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+🟦 ASP.NET | 🟦 ASP.NET Core | 🔗 Web API | 🧩 MVC
+
+**Database**
+🗄️ SQL Server | ⚙️ Stored Procedures | 🧠 Query Optimization
+
+**Frontend**
+🌐 HTML | 🎨 CSS | ⚡ JavaScript | 🧩 Bootstrap
+
+**Tools & Others**
+🧰 Visual Studio | 🧪 Postman | 🔧 Git & GitHub | 📦 REST APIs
+
+---
+
+## 📌 What I’m Working On
+
+* 🔸 Improving **ASP.NET Core Clean Architecture**
+* 🔸 Building **secure & fast APIs**
+* 🔸 Enhancing database performance
+* 🔸 Learning modern development best practices
+
+---
+
+## 🤝 Let’s Connect
+
+* 💼 Open to collaboration & freelance projects
+* 📬 Feel free to explore my repositories and connect
+
+---
+
+⭐ *If you like my work, consider giving a star to the repositories!*
