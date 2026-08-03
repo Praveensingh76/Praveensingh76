@@ -2,7 +2,7 @@
 
 🚀 **ASP.NET Core Developer | Web API | SQL Server**
 💻 Building scalable, secure, and real-world web applications
-📈 5+ years of experience in .NET technologies
+📈 6+ years of experience in .NET technologies
 🌱 Currently upgrading skills in **ASP.NET Core, Clean Architecture & Modern APIs**
 
 ---
